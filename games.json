@@ -2,7 +2,7 @@
     {
         "id": 1,
         "exclu": true,
-        "popular": true,
+        "popular": false,
         "Precommande": "",
         "dateSortie": "2024-04-26",
         "date": "",
